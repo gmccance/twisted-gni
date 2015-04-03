@@ -1,10 +1,5 @@
 #!/usr/bin/env python
-
 # mccance
-# Needs:
-#  pip install stompest.asyc
-#  pip install twisted
-#  pip install stompest
 
 import json
 import logging

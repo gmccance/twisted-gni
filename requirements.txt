@@ -1,0 +1,4 @@
+Twisted==15.0.0
+stompest==2.1.6
+stompest.async==2.1.6
+zope.interface==4.1.2
